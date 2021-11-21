@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":231,"indent":0,"parameters":[1,"yien1",0,0,0,0,170,150,255,0]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["伊恩的地图"]},{"code":235,"indent":0,"parameters":[1]},{"code":0,"indent":0,"parameters":[]}],"name":"伊恩地图","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["休息吗？"]},{"code":102,"indent":0,"parameters":[["是","否"],1,0,2,0]},{"code":402,"indent":0,"parameters":[0,"是"]},{"code":314,"indent":1,"parameters":[0,0]},{"code":352,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"否"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"睡觉","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
